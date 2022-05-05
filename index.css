@@ -1,8 +1,12 @@
 *{
-    background-color: beige;
+    background-color: rgb(117, 117, 116);
     margin: 10px;
     list-style: none;
 
+}
+h1{
+    font-size: x-large;
+    text-align: left;
 }
 .site{
     font-size: xx-large;
@@ -42,4 +46,12 @@ img{
 .profile p{
     font-size: x-large;
     font-weight: 300;
+}
+footer{
+    font-size: x-large;
+    color: coral;
+    background-color: beige;
+    height: 200px;
+    position: relative;
+
 }
